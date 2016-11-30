@@ -11,4 +11,9 @@ class Concert extends Model
 
     // cast back into carbon object
     protected $dates = ['date'];
+
+    public function getFormattedDateAttribute()
+    {
+      return $this->date->format('F j, Y');
+    }
 }
