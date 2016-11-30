@@ -4,13 +4,18 @@ use Illuminate\Foundation\Testing\WithoutMiddleware;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Illuminate\Foundation\Testing\DatabaseTransactions;
 
+use App\Concert;
+use Carbon\Carbon;
+
 class ViewConcertListingTest extends TestCase
 {
+    use DatabaseMigrations;
+
     /** @test **/
     function user_can_view_a_concert_listing()
     {
         // Arrange
-        // Create a concert
+        // Create a concert | This uses the direct model access approach to TDD
         $concert = Concert::create([
             'title' => 'The Red Chord',
             'subtitle' => 'with Animosity and Lethargy',
@@ -27,7 +32,7 @@ class ViewConcertListingTest extends TestCase
 
         // Act
         // View the concert listing
-        $this->visit('/concerts' . $concert->id);
+        $this->visit('/concerts/' . $concert->id);
         
 
         // Assert

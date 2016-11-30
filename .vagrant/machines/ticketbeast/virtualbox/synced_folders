@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/ticketbeast":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/ticketbeast","hostpath":"/Users/amiterandole/Sites/larasites/ticketbeast","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/amiterandole/Sites/larasites/ticketbeast","disabled":false,"__vagrantfile":true}}}
