@@ -1,0 +1,2545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"ticket",
+				"ticket_price_in_dollars\t(ConcertTest.php)"
+			],
+			[
+				"forma",
+				"formatted_start_time\t(ConcertTest.php)"
+			],
+			[
+				"Data",
+				"DatabaseMigrations"
+			],
+			[
+				"format",
+				"formatted_date\t(show.blade.php)"
+			],
+			[
+				"Car",
+				"Carbon\\Carbon〔class〕"
+			],
+			[
+				"get",
+				"getUsersByDistance"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"tra",
+				"transform\tCSS - transform: ;"
+			],
+			[
+				"pos",
+				"pos\tposition: ${1:relative};"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fetch",
+				"fetchUsers"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pur",
+				"purchased"
+			],
+			[
+				"purc",
+				"purchase\t(index.html)"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"DB_",
+				"DB_CONNECTION\t(database.php)"
+			],
+			[
+				"tex",
+				"textInput\t(index.html)"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"browser",
+				"browserSync\t(gulpfile.js)"
+			],
+			[
+				"src",
+				"script\tTag"
+			],
+			[
+				"bl",
+				"blo\tCSS - display: block;"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"pod",
+				"pod-item\t(index.html)"
+			],
+			[
+				"norm",
+				"norm\t(normalize.sublime-snippet)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"line",
+				"linear-gradient(135deg"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"wor",
+				"workshops\t(ui-ux.markdown)"
+			],
+			[
+				"works",
+				"workshop\t(ui-ux.markdown)"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"css",
+				"css-loader\t(package.json)"
+			],
+			[
+				"style",
+				"style-loader\t(package.json)"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"some",
+				"someFunc\t(about.js)"
+			],
+			[
+				"def",
+				"default\t(about.bundle.js)"
+			],
+			[
+				"expo",
+				"export〔keyword〕"
+			],
+			[
+				"ex",
+				"exports\t(webpack.config.js)"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"tr",
+				"translateZ()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"rot",
+				"rotateX()"
+			],
+			[
+				"ro",
+				"rotateX\t(main.css)"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"rota",
+				"rotateY()"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"Auth",
+				"Authenticatable〔namespace〕"
+			],
+			[
+				"Me",
+				"MesssageFormatter〔class〕"
+			],
+			[
+				"Ker",
+				"App\\Http\\Kernel〔class〕"
+			],
+			[
+				"Ge",
+				"GenericUser"
+			],
+			[
+				"console",
+				"log\tconsole"
+			],
+			[
+				"fa",
+				"fa-twitter"
+			],
+			[
+				"sharer",
+				"sharer__label"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"ass",
+				"assets\tcraft.assets"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top\t(_masthead.html)"
+			],
+			[
+				"byl",
+				"bylineCss"
+			],
+			[
+				"mcEntry",
+				"mcEntryUrl"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"mcEn",
+				"mcEntry"
+			],
+			[
+				"tit",
+				"titlesArray"
+			],
+			[
+				"incl",
+				"includecss\tincludeCssHiRes"
+			],
+			[
+				"navi",
+				"navigation.css\t(_layout.html)"
+			],
+			[
+				"sett",
+				"settings.css\t(_layout.html)"
+			],
+			[
+				"pro",
+				"products\t(nav.html)"
+			],
+			[
+				"viewCa",
+				"viewCartCss"
+			],
+			[
+				"media",
+				"media-room\t(_story-list.html)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"defa",
+				"default\t(general.php)"
+			],
+			[
+				"dis",
+				"discountType\t(Commerce_SaleModel.php)"
+			],
+			[
+				"pr",
+				"product\t(Commerce_ProductElementType.php)"
+			],
+			[
+				"lo",
+				"log\tconsole"
+			],
+			[
+				"xra",
+				"xray"
+			],
+			[
+				"bg",
+				"background\t(_pk-download.html)"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"text",
+				"text-center\t(_indus-filter.html)"
+			],
+			[
+				"logo",
+				"logoGridCss"
+			],
+			[
+				"include",
+				"includeCss\t(_subscription.html)"
+			],
+			[
+				"knowl",
+				"knowledge-library"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"str",
+				"stretch"
+			],
+			[
+				"st",
+				"stretch"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"flex-gr",
+				"flex-grow:1"
+			],
+			[
+				"email",
+				"emailFormErrors"
+			],
+			[
+				"is",
+				"isEmailEmpty"
+			],
+			[
+				"subF",
+				"subFormJs"
+			],
+			[
+				"mat",
+				"margin-top\t(index.html)"
+			],
+			[
+				"inc",
+				"includeCss\t(index.html)"
+			],
+			[
+				"ne",
+				"newsletter-icon\t(_subscription.html)"
+			],
+			[
+				"kcMa",
+				"kcMainJs"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"modal",
+				"modal-title"
+			],
+			[
+				"input-gr",
+				"input-group-btn"
+			],
+			[
+				"log",
+				"log\tconsole"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"na",
+				"navbarButton"
+			],
+			[
+				"ab",
+				"absolute\t(_editor-picks.html)"
+			],
+			[
+				"blk-grid-a",
+				"blk-grid-a__item__content"
+			],
+			[
+				"blk-grid-a__",
+				"blk-grid-a__headline"
+			],
+			[
+				"inclu",
+				"include\t(index.html)"
+			],
+			[
+				"edpi",
+				"edpick__story"
+			],
+			[
+				"sole",
+				"log\tconsole"
+			],
+			[
+				"includeCss",
+				"includecss\tincludeCss"
+			],
+			[
+				"Prof",
+				"Profile\t(ProfileList.js)"
+			],
+			[
+				"Rou",
+				"Route"
+			],
+			[
+				"fetc",
+				"fetchProfiles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/concerts/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 385,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Concert.php",
+			"settings":
+			{
+				"buffer_size": 581,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/features/ViewConcertListingTest.php",
+			"settings":
+			{
+				"buffer_size": 1785,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ConcertsController.php",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    // php executable\n    \"php_executable\": \"php\",\n\n    // default class browser order: can be one of \"alpha\" or \"definition\"\n    \"class_order\": \"alpha\",\n\n    // show loading panel on class browser load. system seems to became unstable if enabled\n    \"use_loading\": false,\n\n    // enable completitions\n    \"enable_completitions\": true,\n\n    //use two panels\n    \"two_panels\": false,\n\n    \"one_panel_layout\":{\n      \"cols\": [0.0, 1.0],\n      \"rows\": [0, 0.75, 1],\n      \"cells\": [[0, 0, 1, 1], [0, 1, 1, 2]]\n    },\n\n    \"two_panel_layout\":{\n      \"cols\": [0.0, 0.5, 1.0],\n      \"rows\": [0.0, 0.75, 1.0],\n      \"cells\": [[0, 0, 2, 1], [0, 1, 1, 2], [1, 1, 2, 2]]\n    },\n\n    \"file_extensions\": [\".inc\",\".php\"]\n}\n",
+			"file": "/Users/amiterandole/Library/Application Support/Sublime Text 3/Packages/Project PHP ClassBrowser/ProjectPHPClassBrowser.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 712,
+				"line_ending": "Unix",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "database/migrations/2016_11_30_024915_create_concerts_table.php",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Sublime PHPUnit: Run This Test Method"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"phpuni",
+				"Sublime PHPUnit: Run All Tests"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"phpun",
+				"Sublime PHPUnit: Run This Test Method"
+			],
+			[
+				"impo",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"phpu",
+				"Sublime PHPUnit: Run This Test Method"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"move",
+				"Quick File Move: Move Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"preveiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"snippet: media",
+				"Snippet: CSS - @media {}"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"liqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"key",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"f",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tw",
+				"Set Syntax: Craft-Twig"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"vue",
+				"Snippet: Vue component watch"
+			],
+			[
+				"tq",
+				"Git: Quick Commit"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"twi",
+				"Set Syntax: Craft-Twig"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"tw\t",
+				"Set Syntax: Craft-Twig"
+			],
+			[
+				"te",
+				"Terminal: Open"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% %>)"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"markm",
+				"Markmon launch"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"componentd\t",
+				"Snippet: React Component Did Mount"
+			],
+			[
+				"compo",
+				"Snippet: React Component Will Mount"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"ngin",
+				"Set Syntax: nginx"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"rea",
+				"Snippet: React: componentWillMount: fn() { ... }"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"set syntax: javasc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"an",
+				"ANF: New File"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"csss",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"css\t\t",
+				"Set Syntax: CSS"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"Doc",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"erb",
+				"Set Syntax: ERB"
+			],
+			[
+				"react in",
+				"Snippet: React: getInitialState: fn() { return {...} } "
+			],
+			[
+				"react init",
+				"Snippet: React: getInitialState: fn() { return {...} } "
+			],
+			[
+				"react",
+				"Snippet: React: this.setState({ ... })"
+			],
+			[
+				"es6",
+				"Snippet: ES6 Let"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"repl:s",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl:rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"repl",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/amiterandole/Sites/larasites/ticketbeast",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/app",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/database",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/database/factories",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests/features",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests/unit"
+	],
+	"file_history":
+	[
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests/unit/ConcertTest.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/database/factories/ModelFactory.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php",
+		"/Users/amiterandole/Library/Application Support/Sublime Text 3/Packages/User/test-scaffold.sublime-snippet",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests/TestCase.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/Homestead.yaml",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/app/Concert.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/config/database.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests/features/ViewConcertListingTest.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/routes/web.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/database/migrations/2016_11_30_024915_create_concerts_table.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/phpunit.xml",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/vendor/nesbot/carbon/src/Carbon/Carbon.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php",
+		"/Users/amiterandole/Library/Application Support/Sublime Text 3/Packages/User/laravel-test.sublime-snippet",
+		"/Users/amiterandole/Library/Application Support/Sublime Text 3/Packages/User/php-this.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/ViewConcertListingTest",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests/features/ExampleTest.php",
+		"/Users/amiterandole/Sites/larasites/ticketbeast/tests/ExampleTest.php",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/assets/js/app.js",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/assets/css/app.css",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/node_modules/picnic/picnic.min.css",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/components/bens-button.html",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/gulpfile.js",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/package.json",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/Readme.md",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/.gitignore",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/node_modules/normalize-css/normalize.css",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/src/index.html",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/src/js/app.js",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/node_modules/globule/Gruntfile.js",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/src/css/app.css",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/index.html",
+		"/Users/amiterandole/Dropbox/Personal/quilllabs/starter-kits/vue-2.1-basic-starter-kit/node_modules/normalize-css/normalize.js",
+		"/Users/amiterandole/Downloads/MOCK_DATA.json",
+		"/Users/amiterandole/Downloads/TiltHoverEffects-master/js/main.js",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/index.md",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_data/workshops/workshops.yaml",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_layouts/home.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_site/index.html",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/stretched.css",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/pricing-grid.css",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/media.css",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/pricing-grid.html",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/card.html",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/form.css",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/form.html",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/products.css",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/products.html",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/promos.css",
+		"/Users/amiterandole/Documents/current/webdev/learning-bulma/node_modules/bulma/bulma.sass",
+		"/Users/amiterandole/Documents/current/webdev/learning-bulma/css/main.css",
+		"/Users/amiterandole/Documents/current/webdev/learning-bulma/_sass/main.scss",
+		"/Users/amiterandole/Documents/current/webdev/learning-bulma/node_modules/bulma/sass/layout/hero.sass",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/index.html",
+		"/Users/amiterandole/Documents/current/webdev/learning-flexbox/main.css",
+		"/Users/amiterandole/Library/Application Support/Sublime Text 3/Packages/User/normalize.sublime-snippet",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/_sass/quill.scss",
+		"/Users/amiterandole/Downloads/cloudinary.yml",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/_config.yml",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/package.json",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/node_modules/bootstrap/scss/bootstrap.scss",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/_layouts/default.html",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/_layouts/home.html",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/node_modules/bootstrap/scss/_variables.scss",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/_sass/variables.scss",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/index.html",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/assets/main.scss",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/node_modules/bootstrap/scss/_custom.scss",
+		"/Users/amiterandole/Documents/current/webdev/intro-web-dev-jekyll/quill/_site/assets/main.css",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_site/css/main.css",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_sass/main.scss",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/Gemfile",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/gulpfile.babel.js",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/package.json",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_js/main.js",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_includes/footer.html",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_config.yml",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_data/resources.yml",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/.gitignore",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/index.html",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_layouts/page.html",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_layouts/default.html",
+		"/Users/amiterandole/Documents/current/webdev/jekyll-gulp-boilerplate/_includes/head.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/.git/MERGE_MSG",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_layouts/default.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_sass/minima/_layout.scss",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_workshops/intro-to-web-development.markdown",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_workshops/ui-ux.markdown",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_data/workshops.yaml",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/assets/main.scss",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_workshops/laravel-for-beginners.markdown",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_site/assets/main.css",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_config.yml",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_posts/2016-11-10-welcome-to-jekyll.markdown",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_site/jekyll update/2016/11/10/welcome-to-jekyll.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_layouts/page.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_posts/2016-11-11-new-post.markdown",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/.gitignore",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_sass/minima.scss",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_sass/minima/_syntax-highlighting.scss",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_sass/minima/_base.scss",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_includes/header.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_includes/head.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/_includes/footer.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/footer.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/index.html",
+		"/Users/amiterandole/Dropbox/Personal/es6-workshop/quilllabs.com/error.html",
+		"/Users/amiterandole/Sites/larasites/slim3/Homestead.yaml",
+		"/Users/amiterandole/Sites/larasites/slim3/composer.json",
+		"/Users/amiterandole/Sites/larasites/slim3/index.php",
+		"/Users/amiterandole/Sites/larasites/slim3/src/public/index.php",
+		"/Users/amiterandole/Downloads/react-hn-master/hn-server-fetch.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/dist/index.html",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/src/app.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/src/about/about.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/package.json",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/dist/about.bundle.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/dist/about.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/src/contact.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/src/events.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/dist/events.bundle.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/dist/commons.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/src/home.js",
+		"/Users/amiterandole/Documents/current/webdev/learning-webpack/dist/home.bundle.js",
+		"/Users/amiterandole/Sites/larasites/coastercms/Homestead.yaml",
+		"/Users/amiterandole/Sites/larasites/coastercms/.env",
+		"/Users/amiterandole/Sites/larasites/coastercms/vendor/web-feet/coasterframework/src/Providers/CoasterConfigProvider.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"create",
+			"DB_CONNECTION",
+			"4",
+			"!'\n",
+			"anime",
+			"350x150",
+			"assets/images/placeholder.png",
+			"box",
+			".container",
+			"div",
+			"h2",
+			"Add",
+			"post",
+			".site-nav .page-link",
+			".site-title",
+			".site-header",
+			"site-header",
+			"post-meta",
+			"Hello",
+			"server",
+			"jquery",
+			"dev",
+			"50vw",
+			"100vw",
+			"  \n",
+			"red",
+			"private",
+			"getKeyName",
+			"PaypalPayment",
+			"git",
+			"1663921435",
+			"getRemoteProfile",
+			"social.referer",
+			"customizeSubscriptionPlans",
+			".slide-frame__opener-tagline span",
+			"Next",
+			".step-0__slide-frame",
+			"220px",
+			"<img class=\"steps-img\" src=\"http://placehold.it/50/3498DB/FFFFFF\" alt=\"\" />",
+			"Scouting",
+			".steps-description {",
+			".steps-description",
+			"description",
+			"Attribute",
+			"slide-frame__tagline",
+			"15",
+			"col-sm-15",
+			"href=\"\"",
+			"your content",
+			"byline",
+			"populateModel",
+			"_createContentTable",
+			"createTable",
+			"DbCommand.php",
+			"addForeignKey",
+			"registerSproutFormsFields",
+			"kc-content__article-body",
+			"areas",
+			"validateContent",
+			"_populateEntryModel",
+			"EntriesController.php",
+			"$handle]",
+			"$handle",
+			"$handle]",
+			"blogs",
+			"Articles",
+			"articles",
+			"flex",
+			"Design studio with product designer Peter ",
+			"flex",
+			"sprite",
+			"ratings",
+			"ratings.png",
+			"/images/ratings.png",
+			"/images/ratings/png",
+			"/images/ratings",
+			"$('.progress-animate')",
+			"$('.progress-animate').waypoint( function (direction) {",
+			"Waypoint",
+			"products1",
+			"banner1@2x.jpg",
+			"assets/images/banners/index",
+			"assets/images/banners/",
+			"/assets/banners",
+			"xs",
+			"sm",
+			"a",
+			"mediaCoverageItem",
+			"mediaCoverage",
+			"div",
+			"knowledgeCenterEntries",
+			"sp",
+			"kc",
+			"embed",
+			"reload",
+			"main",
+			"}}\"\n",
+			"_matchedElements",
+			"getElementType",
+			"_extraAttributeNames",
+			"strictAttributes",
+			"icon-basket",
+			"div",
+			"CART",
+			"<i",
+			"<1",
+			"<?",
+			"false",
+			"src=",
+			"kc-logo-wrappe",
+			"featuredBanner",
+			"specialReport.srBanner",
+			"coupon",
+			"discount",
+			"Discount",
+			"discountType",
+			"salePrice",
+			"sales",
+			"featuredBanner",
+			"entry",
+			"practices",
+			"kc-content__list__item",
+			"mr-coverage-masthead-bkg",
+			"media-center",
+			"blogPost",
+			"mr-masthead-bkg",
+			"getAvailableActions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">\n",
+			"assets/uploads/banners/",
+			"mr",
+			"",
+			"mr-",
+			"media-room",
+			"kc-follow__",
+			"aoe-grid",
+			"",
+			"cat",
+			"72px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/concerts/show.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								267
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										266,
+										267
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										233,
+										234
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Concert.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										579,
+										580
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										92,
+										93
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/features/ViewConcertListingTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1769,
+								1769
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1774,
+										1775
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1584,
+										1585
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 679.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/ConcertsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/amiterandole/Library/Application Support/Sublime Text 3/Packages/Project PHP ClassBrowser/ProjectPHPClassBrowser.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								712,
+								712
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "database/migrations/2016_11_30_024915_create_concerts_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										842,
+										843
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										841,
+										842
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ticketbeast.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"concerts",
+				"app/Http/Controllers/ConcertsController.php"
+			],
+			[
+				"create_",
+				"database/migrations/2016_11_30_024915_create_concerts_table.php"
+			],
+			[
+				"makes",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php"
+			],
+			[
+				"show",
+				"resources/views/concerts/show.blade.php"
+			],
+			[
+				"app",
+				"assets/css/app.css"
+			],
+			[
+				"concer",
+				"app/Concert.php"
+			],
+			[
+				"view",
+				"tests/features/ViewConcertListingTest.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"php",
+				"phpunit.xml"
+			],
+			[
+				"illuminate/foundation/testing/testcase",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php"
+			],
+			[
+				"app.css",
+				"assets/css/app.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"normali",
+				"node_modules/normalize-css/normalize.css"
+			],
+			[
+				"grun",
+				"node_modules/globule/Gruntfile.js"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"var",
+				"quill/node_modules/bootstrap/scss/_variables.scss"
+			],
+			[
+				"bootstrap.scss",
+				"quill/node_modules/bootstrap/scss/bootstrap.scss"
+			],
+			[
+				"layout",
+				"_sass/minima/_layout.scss"
+			],
+			[
+				"main",
+				"_site/assets/main.css"
+			],
+			[
+				"welcome",
+				"_site/jekyll update/2016/11/10/welcome-to-jekyll.html"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"hn-server-fetch",
+				"hn-server-fetch.js"
+			],
+			[
+				"routes",
+				"src/routes.js"
+			],
+			[
+				"pagebuilder",
+				"vendor/web-feet/coasterframework/src/Libraries/Builder/PageBuilder.php"
+			],
+			[
+				"datar",
+				"vendor/tcg/voyager/src/Models/DataRow.php"
+			],
+			[
+				"dataty",
+				"vendor/tcg/voyager/src/Models/DataType.php"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				"app.blade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"post",
+				"app/Post.php"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"messe",
+				"app/Messenger/Facades/Messenger.php"
+			],
+			[
+				"roue",
+				"app/Http/routes.php"
+			],
+			[
+				"gener",
+				"vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php"
+			],
+			[
+				"databaseuser",
+				"vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php"
+			],
+			[
+				"genericuser",
+				"vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php"
+			],
+			[
+				"auth",
+				"config/auth.php"
+			],
+			[
+				"login",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				".en",
+				"backend/.env"
+			],
+			[
+				"datab",
+				"backend/config/database.php"
+			],
+			[
+				"services",
+				"config/services.php"
+			],
+			[
+				"_components/kc/_twitter-feeds",
+				"craft/templates/_components/kc/_twitter-feeds.html"
+			],
+			[
+				"_action",
+				"craft/templates/_components/global/_action.html"
+			],
+			[
+				"footer",
+				"craft/templates/_components/global/_footer.html"
+			],
+			[
+				"_components/services/_htimeline-b",
+				"craft/templates/_components/services/_htimeline-b.html"
+			],
+			[
+				"_interac",
+				"craft/templates/_components/services/_interactive.html"
+			],
+			[
+				"_components/kc/_block-grid-a",
+				"craft/templates/_components/kc/_block-grid-a.html"
+			],
+			[
+				"layouts/kc/_category-block",
+				"craft/templates/layouts/kc/_category-block.html"
+			],
+			[
+				"action",
+				"craft/templates/_components/global/_action.html"
+			],
+			[
+				"categorygroupre",
+				"craft/app/records/CategoryGroupRecord.php"
+			],
+			[
+				"categoryrec",
+				"craft/app/records/CategoryRecord.php"
+			],
+			[
+				"billa",
+				"resources/views/auth/registration/subscription/billing.blade.php"
+			],
+			[
+				"sparkser",
+				"app/Providers/SparkServiceProvider.php"
+			],
+			[
+				"dashboardcontroller",
+				"app/Http/Controllers/Settings/DashboardController.php"
+			],
+			[
+				"_inter",
+				"craft/templates/_components/services/_interactive.html"
+			],
+			[
+				"genera",
+				"craft/config/general.php"
+			],
+			[
+				"_byline",
+				"craft/templates/_components/global/_byline.html"
+			],
+			[
+				"timebased",
+				"public/lp/waybeo/js/timerbased.js"
+			],
+			[
+				"utils",
+				"src/sass/site/_utils.scss"
+			],
+			[
+				"utils.scss",
+				"src/sass/site/_utils.scss"
+			],
+			[
+				"_utils",
+				"src/sass/site/_utils.scss"
+			],
+			[
+				"_components/global/_menu-bar.html",
+				"craft/templates/_components/global/_menu-bar.html"
+			],
+			[
+				"_mast",
+				"craft/templates/_components/articles/_masthead.html"
+			],
+			[
+				"_mas",
+				"craft/templates/_components/about-us/_masthead.html"
+			],
+			[
+				"code_snippets/assignment-slider-b.html",
+				"code_snippets/assignment-slider-b.html"
+			],
+			[
+				"_components/services/_assignment-tab",
+				"craft/templates/_components/services/_assignment-tab.html"
+			],
+			[
+				"_bylin",
+				"craft/templates/_components/global/_byline.html"
+			],
+			[
+				"resources/",
+				"craft/app/resources/css/account.css"
+			],
+			[
+				"bootstrap-v3.3.5.js",
+				"public/assets/js/bootstrap-v3.3.5.js"
+			],
+			[
+				"_site",
+				"craft/templates/base_layouts/_site.html"
+			],
+			[
+				"_base",
+				"craft/templates/base_layouts/_base.html"
+			],
+			[
+				"_components/global/_action",
+				"craft/templates/_components/global/_action.html"
+			],
+			[
+				"_components/kc/_social",
+				"craft/templates/_components/kc/_social.html"
+			],
+			[
+				"_components/category/_sidebar",
+				"craft/templates/_components/category/_sidebar.html"
+			],
+			[
+				"_components/global/_byline",
+				"craft/templates/_components/global/_byline.html"
+			],
+			[
+				"base",
+				"craft/app/models/BaseModel.php"
+			],
+			[
+				"sproutforms_formmodel",
+				"craft/plugins/sproutforms/models/SproutForms_FormModel.php"
+			],
+			[
+				"dbcommand.php",
+				"craft/app/etc/db/DbCommand.php"
+			],
+			[
+				"cdbconnection",
+				"craft/app/framework/db/CDbConnection.php"
+			],
+			[
+				"dbconnec",
+				"craft/app/etc/db/DbConnection.php"
+			],
+			[
+				"sproutformscheckboxesfield",
+				"craft/plugins/sproutforms/integrations/sproutforms/fields/SproutFormsCheckboxesField.php"
+			],
+			[
+				"ccomponent",
+				"craft/app/framework/base/CComponent.php"
+			],
+			[
+				"capplicationcomponent",
+				"craft/app/framework/base/CApplicationComponent.php"
+			],
+			[
+				"baseapplicationcomponent",
+				"craft/app/etc/components/BaseApplicationComponent.php"
+			],
+			[
+				"event",
+				"craft/app/etc/events/Event.php"
+			],
+			[
+				"_components/media-room/_story-list",
+				"craft/templates/_components/media-room/_story-list.html"
+			],
+			[
+				"subscribe",
+				"craft/templates/_components/media-room/_subscribe-box.html"
+			],
+			[
+				"_components/media-room/_subscribe",
+				"craft/templates/_components/media-room/_subscribe.html"
+			],
+			[
+				"_components/media-room/_feat-report-slider",
+				"craft/templates/_components/media-room/_feat-report-slider.html"
+			],
+			[
+				"_components/category/_list",
+				"craft/templates/_components/category/_list.html"
+			],
+			[
+				"_editor",
+				"craft/templates/_components/kc/_editor-picks.html"
+			],
+			[
+				"_components/kc/_preview",
+				"craft/templates/_components/kc/_preview.html"
+			],
+			[
+				"_components/kc/_featured",
+				"craft/templates/_components/kc/_featured.html"
+			],
+			[
+				"_components/kc/_latest",
+				"craft/templates/_components/kc/_latest.html"
+			],
+			[
+				"layouts/kc/_main",
+				"craft/templates/layouts/kc/_main.html"
+			],
+			[
+				"_components/kc/_subscribe-alert",
+				"craft/templates/_components/kc/_subscribe-alert.html"
+			],
+			[
+				"_components/kc/_subscription",
+				"craft/templates/_components/kc/_subscription-form.html"
+			],
+			[
+				"_components/articles/_masthead",
+				"craft/templates/_components/articles/_masthead.html"
+			],
+			[
+				"_components/articles/_list",
+				"craft/templates/_components/articles/_list.html"
+			],
+			[
+				"_components/blogs/_list",
+				"craft/templates/_components/blogs/_list.html"
+			],
+			[
+				"craft/templates/layouts/special-reports/index.html",
+				"craft/templates/layouts/special-reports/index.html"
+			],
+			[
+				"craft/templates/layouts/blogs/index.html",
+				"craft/templates/layouts/blogs/index.html"
+			],
+			[
+				"_components/media-room/_article",
+				"craft/templates/_components/media-room/_article.html"
+			],
+			[
+				"craft/templates/layouts/media-room/index.html",
+				"craft/templates/layouts/media-room/index.html"
+			],
+			[
+				"_components/media-room/_social.html",
+				"craft/templates/_components/media-room/_social.html"
+			],
+			[
+				"contentser",
+				"craft/app-old-2.4.2702/services/ContentService.php"
+			],
+			[
+				"entriescontroller.php",
+				"craft/app/controllers/EntriesController.php"
+			],
+			[
+				"_social",
+				"craft/templates/_components/media-room/_social.html"
+			],
+			[
+				"_components/blogs/_masthead",
+				"craft/templates/_components/blogs/_masthead.html"
+			],
+			[
+				"_components/kc/_subscription-form",
+				"craft/templates/_components/kc/_subscription-form.html"
+			],
+			[
+				"general.scss",
+				"web/public/assets/sass/_general.scss"
+			],
+			[
+				"_components/media-room/_about-us",
+				"craft/templates/_components/media-room/_about-us.html"
+			],
+			[
+				"assets/js/main.js",
+				"web/public/assets/js/main.js"
+			],
+			[
+				"plugins",
+				"web/public/assets/js/plugins.js"
+			],
+			[
+				"/plugins/subscribor/controllers/subscribor_servicecontroller.php",
+				"craft/plugins/subscribor/controllers/Subscribor_ServiceController.php"
+			],
+			[
+				"_components/media-room/_subscribe-box",
+				"craft/templates/_components/media-room/_subscribe-box.html"
+			],
+			[
+				"_subscribe-box",
+				"craft/templates/_components/media-room/_subscribe-box.html"
+			],
+			[
+				"_components/media-room/media-coverage/_list",
+				"craft/templates/_components/media-room/media-coverage/_list.html"
+			],
+			[
+				"layouts/press-releases/_entry",
+				"craft/templates/layouts/press-releases/_entry.html"
+			],
+			[
+				"_contact",
+				"craft/templates/_components/media-room/_contact.html"
+			],
+			[
+				"_components/press-releases/_list",
+				"craft/templates/_components/press-releases/_list.html"
+			],
+			[
+				"subscribe-b",
+				"craft/templates/_components/media-room/_subscribe-box.html"
+			],
+			[
+				"_components/media-room/_contact",
+				"craft/templates/_components/media-room/_contact.html"
+			],
+			[
+				"_so",
+				"craft/templates/_components/kc/_social.html"
+			],
+			[
+				"_components/home/_spotlight-slider",
+				"craft/templates/_components/home/_spotlight-slider.html"
+			],
+			[
+				"_feat",
+				"craft/templates/_components/kc/_featured.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

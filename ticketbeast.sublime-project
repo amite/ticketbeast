@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "scan_php_classes": true
+		}
+	]
+}
