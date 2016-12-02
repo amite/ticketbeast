@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "86a325180c86fbe65d8d0a9b957e824d",
-    "content-hash": "96854d489bd726d5a6bf8c3f41982f04",
+    "hash": "e7e41f744bff9eb59eeb37300bff0bba",
+    "content-hash": "233ca1bbec9ffc210ca0ce9d89ff534d",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -736,6 +736,49 @@
                 "php"
             ],
             "time": "2016-09-16 12:04:44"
+        },
+        {
+            "name": "nothingworks/blade-svg",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/adamwathan/blade-svg.git",
+                "reference": "0002112f8ccd79b23451958e9e5a3fa03585a035"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/adamwathan/blade-svg/zipball/0002112f8ccd79b23451958e9e5a3fa03585a035",
+                "reference": "0002112f8ccd79b23451958e9e5a3fa03585a035",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/filesystem": "^5.3",
+                "illuminate/support": "^5.3"
+            },
+            "require-dev": {
+                "mockery/mockery": "^0.9.5",
+                "phpunit/phpunit": "^5.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BladeSvg\\": "src/"
+                },
+                "files": [
+                    "src/helpers.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Adam Wathan",
+                    "email": "adam.wathan@gmail.com"
+                }
+            ],
+            "time": "2016-09-05 14:37:45"
         },
         {
             "name": "paragonie/random_compat",
@@ -1868,6 +1911,46 @@
                 "environment"
             ],
             "time": "2016-09-01 10:05:43"
+        },
+        {
+            "name": "zondicons/blade-bridge",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dukestreetstudio/zondicons-blade-bridge.git",
+                "reference": "895e43b450b5d83df8410d57febcba95a58f95df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dukestreetstudio/zondicons-blade-bridge/zipball/895e43b450b5d83df8410d57febcba95a58f95df",
+                "reference": "895e43b450b5d83df8410d57febcba95a58f95df",
+                "shasum": ""
+            },
+            "require": {
+                "nothingworks/blade-svg": "^0.1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Zondicons\\": "src/"
+                },
+                "files": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Adam Wathan",
+                    "email": "adam.wathan@gmail.com"
+                },
+                {
+                    "name": "Steve Schoger",
+                    "email": "sm.schoger@gmail.com"
+                }
+            ],
+            "time": "2016-10-14 20:16:43"
         }
     ],
     "packages-dev": [
