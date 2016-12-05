@@ -25,6 +25,5 @@ class OrderTest extends TestCase
 
       $this->assertEquals(10, $concert->ticketsRemaining());
       $this->assertNull(Order::find($order->id));
-
     }
 }
