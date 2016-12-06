@@ -31,38 +31,31 @@ class PurchaseTicketsTest extends TestCase
         $this->assertArrayHasKey($field, $this->decodeResponseJson());
     }
 
-    /** @test **/
-    function customer_can_purchase_concert_tickets_to_a_published_concert()
+    /** @test */
+    function customer_can_purchase_tickets_to_a_published_concert()
     {
-      // Arrange
-      // create a concert
-      $concert = factory(Concert::class)->states('published')->create(['ticket_price' => 3250])->addTickets(3);
-      
-      // Act
-      // Purchase Concert Tickets
-
-      $this->orderTickets($concert, [
-        'email' => 'john@example.com',
-        'ticket_quantity' => 3,
-        'payment_token' => $this->paymentGateway->getValidTestToken()
-      ]);
-
-      // Assert
-      $this->assertResponseStatus(201);
-
-      // Assert
-      // Make sure the customer was charged the right amount
-      $this->assertEquals(9750, $this->paymentGateway->totalCharges());
-
-      // Make sure an order exists for this customer
-      $this->assertEquals(3, $concert->ordersFor('john@example.com')->first()->ticketQuantity());
-
-      $this->assertTrue($concert->hasOrderFor('john@example.com'));
+        $this->disableExceptionHandling();
+        $concert = factory(Concert::class)->states('published')->create(['ticket_price' => 3250])->addTickets(3);
+        $this->orderTickets($concert, [
+            'email' => 'john@example.com',
+            'ticket_quantity' => 3,
+            'payment_token' => $this->paymentGateway->getValidTestToken(),
+        ]);
+        $this->assertResponseStatus(201);
+        $this->seeJsonSubset([
+            'email' => 'john@example.com',
+            'ticket_quantity' => 3,
+            'amount' => 9750,
+        ]);
+        $this->assertEquals(9750, $this->paymentGateway->totalCharges());
+        $this->assertTrue($concert->hasOrderFor('john@example.com'));
+        $this->assertEquals(3, $concert->ordersFor('john@example.com')->first()->ticketQuantity());
     }
 
     /** @test **/
     function cannot_purchase_tickets_more_tickets_than_remain()
     {
+       
         $concert = factory(Concert::class)->states('published')->create()->addTickets(50);
 
         $this->orderTickets($concert, [
